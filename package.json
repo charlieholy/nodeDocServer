@@ -11,17 +11,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/charlieholy/yes.git"
+    "url": "xxx"
   },
   "author": "charlie",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/charlieholy/yes/issues"
+    "url": "xxx"
   },
-  "homepage": "https://github.com/charlieholy/yes#readme",
-  "devDependencies": {
-    "event": "^1.0.0",
-    "node-uuid": "^1.4.8",
-    "nodemailer": "^4.4.1"
-  }
+  "homepage": "xxx",
+  "devDependencies": {}
 }

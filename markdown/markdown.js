@@ -1,8 +1,6 @@
-var markdown = require('markdown').markdown;
-var fs = require('fs');
-var doc = fs.readFileSync('./ok.md','utf-8')
+var markdown = require('markdown')
+var fs = require('fs')
+var doc = fs.readFileSync('./rainbow.md','utf-8')
 
-
-var doc = markdown.toHTML(doc);
-
-console.log(doc)
+var htmldoc =markdown.parse(doc)
+console.log(htmldoc)
