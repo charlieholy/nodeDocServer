@@ -1,0 +1,27 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "okcoin test",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "markdown": "^0.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlieholy/yes.git"
+  },
+  "author": "charlie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charlieholy/yes/issues"
+  },
+  "homepage": "https://github.com/charlieholy/yes#readme",
+  "devDependencies": {
+    "event": "^1.0.0",
+    "node-uuid": "^1.4.8",
+    "nodemailer": "^4.4.1"
+  }
+}
